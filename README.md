@@ -14,6 +14,8 @@ LinkedIn: www.linkedin.com/in/taimoor-khemta-53999a251
 🛠️ Technical Skills
 
 Languages: Python, C/C++, JavaScript, Assembly
-Tools: Burp Suite, Wireshark, Nmap, Metasploit, IDA,
+
+Tools: Burp Suite, Wireshark, Nmap, Metasploit, IDA
+
 Assessment Tools: Nessus, OpenVAS,Nikto
 
