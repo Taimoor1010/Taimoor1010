@@ -6,6 +6,7 @@ I am currently pursuing a Bachelor's degree in Cybersecurity, with practical exp
 
 📫 Contact Me:
 Email: muhammadtaimur05@gmail.com
+
 LinkedIn: www.linkedin.com/in/taimoor-khemta-53999a251
 
 🛠️ Technical Skills
